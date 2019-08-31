@@ -16,7 +16,7 @@ and open the template in the editor.
      margin-bottom: 20px;     
      text-align: center;    
      color: #f8f8f8;   
-     background:url('img/intro-bg_1.jpg') no-repeat center;   
+     background:url('intro-bg_1.jpg') no-repeat center;   
      background-size: cover; 
 }
 .inner-banner-image{
